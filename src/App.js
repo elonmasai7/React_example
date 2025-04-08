@@ -8,7 +8,7 @@ import "leaflet/dist/leaflet.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
-const API_KEY = "3e07a8818422cc0e9dc24197eb83522f"; // Replace with a valid API key from OpenWeather
+const API_KEY = "hello mfs"; // Replace with a valid API key from OpenWeather
 const API_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 function App() {
